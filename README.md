@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @kylersaunders
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-kylersaunders/kylersaunders is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Kyle
+- 👀 I’m interested in WebSockets, Next.JS, and algorithmic traditing
+- 🌱 I’m currently learning why algorithmic trading's so difficult 
+- 📫 How to reach me - check out my LinkedIn @kylersaunders

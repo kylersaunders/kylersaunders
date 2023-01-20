@@ -1,15 +1,14 @@
 <h1 align="left"> Hey all 👋, I'm Kyle Saunders.</h1>
 <div align="left"> </div>
   
-<h4 align="left">I'm an experienced full-stack software engineer who's passionate about building open source tools to simplify or enrich using other software.
+<h4 align="left">I'm an experienced full-stack software engineer who's passionate about building open source tools to simplify or enrich using other software.</h4>
 <br>
 <br>
 <br>
 <h3 align="left">Skills & Techs:</h3>
-<br>
-  ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![AWS](https://img.shields.io/badge/AWS-232f3e.svg?style=for-the-badge&logo=amazon-aws&logoColor=ff9900)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)

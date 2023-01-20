@@ -1,4 +1,4 @@
-<h1 align="left"> Hello there 👋, I'm Kyle Saunders.</h1>
+<h1 align="left"> Hey all 👋, I'm Kyle Saunders.</h1>
 <div align="left"> 
 
 </div>

@@ -3,7 +3,7 @@
 
 </div>
   
-<h4 align="left">I'm an experienced full-stack software engineer driven to advance the open source community via contribution. I enjoy working with new technologies and working through complex systems. I'm also a core team member and co-creator of LightQL, an open-source client-side caching tool for GraphQL.
+<h4 align="left">I'm an experienced full-stack software engineer who's passionate about building open source tools to simplify or enrich using other software.
 <br>
 <br>
 

@@ -1,9 +1,9 @@
-<h1 align="left"> Hey all 👋, I'm Kyle Saunders.</h1>
+<h2 align="left"> Hey all 👋, I'm Kyle.</h2>
 <div align="left"> </div>
   
-<h4 align="left">I'm an experienced full-stack software engineer who's passionate about building open source tools to simplify or enrich using other software.</h4>
+<h3 align="left">I'm a full-stack engineer and I'm passionate about tool building. Check out my repos for shipped products and tools in the making.</h3>
 <br> 
-<h3 align="left">Skills & Techs:</h3>  
+<h3 align="left">Techs:</h3>  
 
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)

@@ -1,9 +1,9 @@
 <h2 align="left"> Hey all 👋, I'm Kyle.</h2>
 <div align="left"> </div>
   
-<h3 align="left">I'm an experienced software developer specializing in module pattern architecture implementation using TypeScript/React/Redux and Node.js architectures, along with the value containerizing brings to scalable applications. Co-creator of Dockwell, a lightweight, open-source developer tool built to rapidly enable docker container metric monitoring and debugging. Passionate current contributor to several open-source tools designed to improve the developer experience.
+<h3 align="left">I'm an experienced software developer specializing in module pattern architecture implementation using TypeScript/React/Redux and Node.js architectures, along with the value containerizing brings to scalable applications. Co-creator of Dockwell, a lightweight, open-source developer tool built to rapidly enable docker container metric monitoring and debugging. Passionate current contributor to several open-source tools designed to improve the developer experience.</h3>
 <br>
-Featured speaker @Bractlet + JEENY Software Engineering Series: Microservices, e pluribus unum</h3>
+<h3>Featured speaker @Bractlet + JEENY Software Engineering Series: Microservices, e pluribus unum</h3>
 <br> 
 <h3 align="left">Techs:</h3>  
 

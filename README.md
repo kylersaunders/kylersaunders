@@ -1,17 +1,17 @@
 ```text
-kyle@github ~
-  % agent                                                                                                                           !2026
-  ██╗  ██╗   Kyle Mode v1.0
-  ██║ ██╔╝   senior swe · product-minded builder
-  █████╔╝    /Users/kyle/projects/everything
+kyle@github ~                                                                               !2026
+  % agent
+  ██╗  ██╗   Kyle Style v2.0.11
+  ██║ ██╔╝   senior swe · family plan pro
+  █████╔╝    /Users/kyle/vibes/
   ██╔═██╗
   ██║  ██╗
   ╚═╝  ╚═╝
 
-  ✦ Context loaded · AI apps, market/data systems, dev tooling
+  ✦ Founder mode available · /founder to enable
 
 ❯ /status
-  ⎿  stack: ts · react · python · ai workflows · dashboards
+  ⎿  stack: multimodal · ts · docker · python · aws
   ⎿  human: tennis · scuba · esp32 mischief · home automation
 
 ────────────────────────────────────────────────────────────────────────────────────────────────────

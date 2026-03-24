@@ -47,6 +47,7 @@ In a previous chapter, I co-created Dockwell, a lightweight Docker monitoring/de
 | [marshall ui](https://github.com/kylersaunders/landing-page) | landing page / front door for the Marshall equity research idea |
 | [webdash](https://github.com/kylersaunders/webdash) | dashboard-for-the-web energy |
 | [in-stock](https://github.com/kylersaunders/in-stock) | Python side project with alerting / tracking vibes |
+| [topgun](https://github.com/kylersaunders/topgun) | Pieter-inspired browser flight sim from the early vibe-coding era |
 | [octave3o](https://github.com/kylersaunders/octave3o) | Spotify playlist tooling for cleaning up, previewing, and rebuilding music chaos |
 | [chrome-ext](https://github.com/kylersaunders/chrome-ext) | browser extension tinkering |
 

@@ -42,6 +42,7 @@ In a previous chapter, I co-created Dockwell, a lightweight Docker monitoring/de
 
 | project | notes |
 | --- | --- |
+| [biographi](https://www.biographi.xyz/) | private project exploring identity, profiles, and a more polished public-facing product surface |
 | [satellite-tracker](https://github.com/kylersaunders/satellite-tracker) | recent web experiment orbiting around satellite tracking |
 | [alpha-scanner](https://github.com/kylersaunders/alpha-scanner) | congressional trading intelligence with scanning, alerting, and daily cron energy |
 | [marshall ui](https://github.com/kylersaunders/landing-page) | landing page / front door for the Marshall equity research idea |

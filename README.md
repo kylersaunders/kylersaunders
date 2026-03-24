@@ -46,7 +46,7 @@ In a previous chapter, I co-created Dockwell, a lightweight Docker monitoring/de
 | [landing-page](https://github.com/kylersaunders/landing-page) | landing page work for an AI-powered equity research product |
 | [webdash](https://github.com/kylersaunders/webdash) | dashboard-for-the-web energy |
 | [in-stock](https://github.com/kylersaunders/in-stock) | Python side project with alerting / tracking vibes |
-| [octave](https://github.com/kylersaunders/octave) | audio-adjacent experiment, because plain software was apparently not enough |
+| [octave3o](https://github.com/kylersaunders/octave3o) | Spotify playlist tooling for cleaning up, previewing, and rebuilding music chaos |
 | [chrome-ext](https://github.com/kylersaunders/chrome-ext) | browser extension tinkering |
 
 ## Operating Principles

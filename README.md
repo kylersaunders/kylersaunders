@@ -1,17 +1,13 @@
 ```text
-██╗  ██╗██╗   ██╗██╗     ███████╗
-██║ ██╔╝╚██╗ ██╔╝██║     ██╔════╝
-█████╔╝  ╚████╔╝ ██║     █████╗
-██╔═██╗   ╚██╔╝  ██║     ██╔══╝
-██║  ██╗   ██║   ███████╗███████╗
-╚═╝  ╚═╝   ╚═╝   ╚══════╝╚══════╝
-
-mbp@github ~
+kyle@github ~
 % agent
 
-  [::]   Agent Mode v2026.03
-         product-minded builder
-         /Users/kyle/projects/everything
+  ██╗  ██╗   Agent Mode v2026.03
+  ██║ ██╔╝   product-minded builder
+  █████╔╝    /Users/kyle/projects/everything
+  ██╔═██╗
+  ██║  ██╗
+  ╚═╝  ╚═╝
 
 * context synced · ready for useful side quests
 

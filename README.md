@@ -1,9 +1,12 @@
 ```text
 kyle@github ~
   % agent                                                                                                                           !2026
- ▐▛██╗▜▌   Kyle Mode v1.0
-▝▜████▛▘  senior swe · product-minded builder
-  ▘▘ ▝▝    /Users/kyle/projects/everything
+  ██╗  ██╗   Kyle Mode v1.0
+  ██║ ██╔╝   senior swe · product-minded builder
+  █████╔╝    /Users/kyle/projects/everything
+  ██╔═██╗
+  ██║  ██╗
+  ╚═╝  ╚═╝
 
   ✦ Context loaded · AI apps, market/data systems, dev tooling
 

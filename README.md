@@ -1,20 +1,20 @@
 ```text
 kyle@github ~
-% agent
+  % agent                                                                                                                           !2026
+ ▐▛██╗▜▌   Kyle Mode v1.0
+▝▜████▛▘  senior swe · product-minded builder
+  ▘▘ ▝▝    /Users/kyle/projects/everything
 
-  ██╗  ██╗   Agent Mode v2026.03
-  ██║ ██╔╝   product-minded builder
-  █████╔╝    /Users/kyle/projects/everything
-  ██╔═██╗
-  ██║  ██╗
-  ╚═╝  ╚═╝
+  ✦ Context loaded · AI apps, market/data systems, dev tooling
 
-* context synced · ready for useful side quests
+❯ /status
+  ⎿  stack: ts · react · python · ai workflows · dashboards
+  ⎿  human: tennis · scuba · esp32 mischief · home automation
 
-> /status
-  model: senior swe with startup taste
-  stack: ts · react · python · ai workflows · data systems
-  human: tennis · scuba · esp32 mischief · home automation
+────────────────────────────────────────────────────────────────────────────────────────────────────
+❯ current focus
+────────────────────────────────────────────────────────────────────────────────────────────────────
+  shipping useful things, keeping them fast, and leaving room for side quests
 ```
 
 ## Side Quests

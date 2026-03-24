@@ -1,33 +1,92 @@
-<h2 align="left"> Hey all 👋, I'm Kyle.</h2>
-<div align="left"> </div>
-  
-<h3 align="left">I'm an experienced software engineer specializing in module pattern architecture implementation using TypeScript/React/Redux and Node.js architectures, along with the value containerizing brings to scalable applications. Co-creator of Dockwell, a lightweight, open-source developer tool built to rapidly enable docker container metric monitoring and debugging. Passionate current contributor to several open-source tools designed to improve the developer experience.</h3>
-<h3>Featured speaker @Bractlet + JEENY Software Engineering Series: Microservices, e pluribus unum</h3>
-<br> 
-<h3 align="left">Techs:</h3>  
+```text
+██╗  ██╗██╗   ██╗██╗     ███████╗
+██║ ██╔╝╚██╗ ██╔╝██║     ██╔════╝
+█████╔╝  ╚████╔╝ ██║     █████╗
+██╔═██╗   ╚██╔╝  ██║     ██╔══╝
+██║  ██╗   ██║   ███████╗███████╗
+╚═╝  ╚═╝   ╚═╝   ╚══════╝╚══════╝
+```
 
-![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![AWS](https://img.shields.io/badge/AWS-232f3e.svg?style=for-the-badge&logo=amazon-aws&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+```bash
+kylersaunders@github:~$ whoami
+Kyle Saunders
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
+kylersaunders@github:~$ cat about.txt
+full-stack engineer
+builder of product, tooling, and weird side quests
+currently interested in AI-adjacent apps, market/data systems, ESP32s,
+hacky home automation, and making software feel fast
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+kylersaunders@github:~$ printf "%s\n" hobbies
+tennis
+scuba diving
+teaching small computers bad habits
+```
 
-![Jest](https://img.shields.io/badge/-jest/TDD-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+I like building software that feels sharp in the hand: good product sense up front, solid systems underneath, and just enough curiosity to wander into odd corners when the project calls for it.
 
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+These days that usually means some mix of TypeScript, React, Python, data plumbing, AI-flavored workflows, dashboards, market/tooling experiments, and whatever glue code gets the thing shipped.
+
+In a previous chapter, I co-created Dockwell, a lightweight Docker monitoring/debugging tool, and have spoken on microservices in engineering-focused settings.
+
+## A Few Things I Build
+
+| area | what that means in practice |
+| --- | --- |
+| product engineering | shipping full-stack features without treating backend, frontend, and infra like separate planets |
+| tools for builders | internal tools, dashboards, monitors, filters, scrappy utilities |
+| hardware / home hacks | ESP32 experiments, Home Assistant rabbit holes, and automations that are one firmware flash away from becoming a story |
+| fun side quests | satellites, audio, browser hacks, weird web toys |
+
+## Selected Side Quests
+
+| project | notes |
+| --- | --- |
+| [satellite-tracker](https://github.com/kylersaunders/satellite-tracker) | recent web experiment orbiting around satellite tracking |
+| [landing-page](https://github.com/kylersaunders/landing-page) | landing page work for an AI-powered equity research product |
+| [webdash](https://github.com/kylersaunders/webdash) | dashboard-for-the-web energy |
+| [in-stock](https://github.com/kylersaunders/in-stock) | Python side project with alerting / tracking vibes |
+| [octave](https://github.com/kylersaunders/octave) | audio-adjacent experiment, because plain software was apparently not enough |
+| [chrome-ext](https://github.com/kylersaunders/chrome-ext) | browser extension tinkering |
+
+## Operating Principles
+
+- Build things that are useful before they are impressive.
+- Care about product taste and implementation quality at the same time.
+- Keep systems understandable.
+- Prefer shipping over theater.
+- Leave room for fun.
+
+<details>
+<summary><code>notes.txt</code></summary>
+
+I am aiming for the kind of engineering that can move between product, platform, and experimentation without a costume change.
+
+That means:
+
+- writing code that other people can actually extend
+- making pragmatic architecture calls without overfitting to trends
+- being comfortable close to users, metrics, and the messy edges of real software
+- staying curious enough to build strange little things on weekends
+
+</details>
+
+## Current Build Log
+
+```text
+[now compiling]
+- AI/product ideas that are more useful than loud
+- ESP32 + home automation experiments
+- market/data tools and observability-heavy projects
+- a GitHub profile README that should probably not exist, but now does
+```
+
+## Elsewhere
+
+- [LinkedIn](https://www.linkedin.com/in/kylersaunders/)
+- [GitHub](https://github.com/kylersaunders)
+
+```text
+kylersaunders@github:~$ exit
+logout
+```

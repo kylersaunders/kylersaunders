@@ -43,7 +43,8 @@ In a previous chapter, I co-created Dockwell, a lightweight Docker monitoring/de
 | project | notes |
 | --- | --- |
 | [satellite-tracker](https://github.com/kylersaunders/satellite-tracker) | recent web experiment orbiting around satellite tracking |
-| marshall landing page | landing page work for an AI-powered equity research product |
+| [alpha-scanner](https://github.com/kylersaunders/alpha-scanner) | congressional trading intelligence with scanning, alerting, and daily cron energy |
+| [marshall ui](https://github.com/kylersaunders/landing-page) | landing page / front door for the Marshall equity research idea |
 | [webdash](https://github.com/kylersaunders/webdash) | dashboard-for-the-web energy |
 | [in-stock](https://github.com/kylersaunders/in-stock) | Python side project with alerting / tracking vibes |
 | [octave3o](https://github.com/kylersaunders/octave3o) | Spotify playlist tooling for cleaning up, previewing, and rebuilding music chaos |

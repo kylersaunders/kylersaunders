@@ -36,6 +36,18 @@ kyle@github ~                                                                   
 | [in-stock](https://github.com/kylersaunders/in-stock)                   | Python side project with alerting / tracking vibes                                              |
 
 <details>
+<summary><code>$ cat receipts.txt</code></summary>
+
+```text
+disclosure: this "portfolio" is really an itemized ledger of money i've
+wired to the frontier labs in exchange for aura. each row above is a
+proof-of-payment. tokens spent → aura acquired. ROI denominated in vibes.
+no refunds. status: aura-positive.
+```
+
+</details>
+
+<details>
 <summary><code>agent_notes.md</code></summary>
 
 I’m interested in the kind of engineering that can move comfortably between:

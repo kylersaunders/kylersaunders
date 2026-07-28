@@ -1,7 +1,7 @@
 ```text
 kyle@github ~                                                                               !2026
   % agent
-  ██╗  ██╗   Kyle Style v2.0.11
+  ██╗  ██╗   Kyle Style v2.1.0
   ██║ ██╔╝   senior swe · family plan pro
   █████╔╝    /Users/kyle/vibes/
   ██╔═██╗
@@ -24,6 +24,8 @@ kyle@github ~                                                                   
 
 | project                                                                 | notes                                                                                           |
 | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| [ParkTunes](https://parktunes.vercel.app)                               | turn any playground instrument into a songbook — snap a park xylophone/chimes and play along     |
+| [Cairn](https://cairn-web-kylersaunders-projects.vercel.app)            | family journal on an age-relative timeline — same life stage, not the same date                 |
 | [biographi](https://www.biographi.xyz/)                                 | private project exploring identity, profiles, and a more polished public-facing product surface |
 | [alpha-scanner](https://github.com/kylersaunders/alpha-scanner)         | congressional trading intelligence with scanning, alerting, and daily-cron energy               |
 | [marshall ui](https://github.com/kylersaunders/landing-page)            | front door for an AI-powered equity research idea                                               |
@@ -54,6 +56,7 @@ The target is being the kind of engineer who can use new tools well without gett
 ```text
 [running]
 - building AI/product ideas that are more useful than loud
+- shipping for family + play — Cairn (kids' memory timeline) and ParkTunes (park-music songbook)
 - exploring agent-style UX and coding workflows
 - messing with ESP32 + home automation projects
 - shipping side quests that are half curiosity, half prototype, half "why not"
